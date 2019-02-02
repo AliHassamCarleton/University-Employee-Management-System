@@ -1,7 +1,6 @@
 ReadMe
 
-COMP3004 D4
-Group Members: Ali Hassam, Alnoor Kara, Daniel Homer, Michael van Dyk
+
 
 To run: Type in make in the console in the working directory to compile the program.
 Type in ./cuNICS to run the file. 
